@@ -56,15 +56,15 @@ print(cl)
 ```
 
 ## Output:
-Data:
+#### Data:
 ![image](https://github.com/user-attachments/assets/18f78bdb-bd26-49fc-a60b-daf2c7a47827)
-Data.shape:
+#### Data.shape:
 ![image](https://github.com/user-attachments/assets/6df4d79e-a214-415b-bb9f-728b82192669)
-x_train:
+#### x_train:
 ![image](https://github.com/user-attachments/assets/3dc2d767-2da9-41d7-8ca7-3a2438050091)
-Accuracy:
+#### Accuracy:
 ![image](https://github.com/user-attachments/assets/900ecb44-34a3-4c5b-8d44-e0c6e7a998ba)
-Confusion Matrix and Classification report:
+#### Confusion Matrix and Classification report:
 ![image](https://github.com/user-attachments/assets/1025a96d-05d0-4741-b0d6-ddc661fa2e71)
 
 
