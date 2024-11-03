@@ -26,7 +26,7 @@ RegisterNumber:  212223240183
 ```
 ```py
 import pandas as pd
-data = pd.read_csv("D:/introduction to ML/jupyter notebooks/spam.csv",encoding = 'windows-1252')
+data = pd.read_csv("spam.csv",encoding = 'windows-1252')
 from sklearn.model_selection import train_test_split
 data
 data.shape
